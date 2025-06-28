@@ -1,5 +1,5 @@
-from src.utils import mask_card_number, get_account_info
 from src.masks import mask_account_number, process_payment
+from src.utils import get_account_info, mask_card_number
 
 if __name__ == "__main__":
     # Примеры вызова функций
